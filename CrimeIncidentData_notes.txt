@@ -1,8 +1,0 @@
-Crime Incident Data
-
-Columns Needed
-- Council District
-- Highest UCR Offense Description (Combine Auto theft and theft)
-- Go Report Date
-- GO Location zip
-- 
