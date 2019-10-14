@@ -5,7 +5,7 @@
 This team project was done by a Jake, Edgar, Cletus and John. We are cohorts of the Summer 2019 UT Data Vizualization BootCamp.
 
 ## Background
-* The objective of this project is to evaluate the socio-economic impact of South By Southwest (SXSW) on the city of Austin, TX. Making use of Github and it's brnching system
+* The objective of this project is to evaluate the socio-economic impact of South By Southwest (SXSW) on the city of Austin, TX. Making use of Github and it's branching system
 * SXSW is two-week long event focus on music, film, education and tech, that storms the city of Austin every March dating back in the 1980's. Since it's inception the event has only grown year after year. It is a great showcase of trendetters and pioneers in the tech, music, film and education sector.
 
 
